@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598120637300",
+    "project_id": "inprep-ai-c0450",
+    "storage_bucket": "inprep-ai-c0450.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598120637300:android:c5bc37cc06b2cff0314221",
+        "android_client_info": {
+          "package_name": "com.example.inprep_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriVe7NJ9PZ3xeiBP2-JDZCUNlPBe92TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
